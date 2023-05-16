@@ -20,10 +20,10 @@ cells are not harmful or there is no cancer and 'Malignant' means that the patie
 cancer and the cells have a harmful effect
 
 WORK FLOW:
-● Analysing the available data and exploring relationships among given variables
-● Data Pre-processing 
-● Training SVM classifier to predict whether the patient has cancer or not 
-● Assess the correctness in classifying data with respect to efficiency and effectiveness of
-the SVM classifier in terms of accuracy, precision, sensitivity, specificity and AUC ROC
-● Tuning the hyperparameters of SVM Classifier provided by the scikit-learn library
+step 1: Analysing the available data and exploring relationships among given variables
+step 2: Data Pre-processing 
+step 3: Training SVM classifier to predict whether the patient has cancer or not 
+step 4: Assess the correctness in classifying data with respect to efficiency and effectiveness of
+        the SVM classifier in terms of accuracy, precision, sensitivity, specificity and AUC ROC
+step 5: Tuning the hyperparameters of SVM Classifier provided by the scikit-learn library
 
