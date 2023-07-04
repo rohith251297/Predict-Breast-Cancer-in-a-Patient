@@ -20,6 +20,7 @@ cells are not harmful or there is no cancer and 'Malignant' means that the patie
 cancer and the cells have a harmful effect
 
 **WORK FLOW:**
+
 **step 1:** Analysing the available data and exploring relationships among given variables
 
 **step 2:** Data Pre-processing 
